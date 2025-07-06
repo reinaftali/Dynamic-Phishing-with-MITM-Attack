@@ -1,5 +1,3 @@
-Folder PATH listing for volume DATA
-Volume serial number is 164A-2E6D
 D:.
 |   arp_spoof.py
 |   client_fetch_template.py
