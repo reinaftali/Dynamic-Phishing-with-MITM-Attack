@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.iml
+~$*
+
+*.log
+!log.txt
+!sites_log.txt
+!geckodriver.log
+
+*.exe
+!ngrok.exe
+
+.idea/

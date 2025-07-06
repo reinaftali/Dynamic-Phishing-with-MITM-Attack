@@ -1,0 +1,65 @@
+Folder PATH listing for volume DATA
+Volume serial number is 164A-2E6D
+D:.
+|   arp_spoof.py
+|   client_fetch_template.py
+|   displaydns_parser.py
+|   dns_spoof.py
+|   geckodriver.log
+|   log.txt
+|   network.py
+|   ngrok.exe
+|   path_tree.txt
+|   sites.json
+|   sites_log.txt
+|   site_list_logger.py
+|   
++---.idea
+|   |   .gitignore
+|   |   dynamic_phishing.iml
+|   |   misc.xml
+|   |   modules.xml
+|   |   vcs.xml
+|   |   workspace.xml
+|   |   
+|   \---inspectionProfiles
+|           profiles_settings.xml
+|           Project_Default.xml
+|           
++---Flask_Server
+|   |   app.py
+|   |   DB_Diagram.drawio
+|   |   phishDB.db
+|   |   ~$DB_Diagram.drawio.bkp
+|   |   
+|   +---static
+|   |   \---css
+|   |           fb_style.css
+|   |           main.css
+|   |           
+|   +---templates
+|   |       adobe_login.html
+|   |       base.html
+|   |       fb_login.html
+|   |       form1.html
+|   |       index.html
+|   |       new_google_login.html
+|   |       reddit_login.html
+|   |       
+|   \---__pycache__
+|           app.cpython-38.pyc
+|           
++---VM_linux
+|   |   network.py
+|   |   server_send_template.py
+|   |   
+|   \---__pycache__
+|           network.cpython-38.pyc
+|           
+\---__pycache__
+        client_fetch_template.cpython-38.pyc
+        displaydns_parser.cpython-38.pyc
+        dns_spoof.cpython-38.pyc
+        network.cpython-38.pyc
+        site_list_logger.cpython-38.pyc
+        
