@@ -1,0 +1,7 @@
+flask>=2.0.0
+scapy>=2.4.5
+netfilterqueue>=1.0
+pyfiglet
+requests
+colorama
+sqlite3-binary ; only if using sqlite standalone
