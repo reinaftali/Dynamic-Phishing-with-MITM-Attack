@@ -21,7 +21,7 @@
 ## 🧠 Project Summary
 
 This project implements a **Man-in-the-Middle (MITM)** attack simulation combined with a **dynamic phishing system**.  
-It intercepts traffic within a local network, identifies unencrypted communication with sensitive sites (e.g., login pages),  
+It intercepts traffic within a local network, identifies unencrypted communication with sensitive sites (e.g., login pages),
 and dynamically generates cloned websites to perform phishing via **DNS Hijacking** and **HTTP POST sniffing**.  
 Traffic is relayed using **IP Forwarding** to maintain transparent connectivity while extracting sensitive credentials.
 
